@@ -43,7 +43,8 @@ int main(void)
 ```
 ## OUTPUT
 
-![ID and Parrent](https://github.com/Aakashraj04/Linux-Process-API-fork-wait-exec-/assets/121117266/c4b360a5-d4f2-4290-914f-64f17f16c105)
+![output 1](https://github.com/ILAIYADEEPAN/Linux-Process-API-fork-wait-exec/assets/147473334/cdf02f24-17d7-4fe3-a412-6bc192535657)
+
 
 
 
@@ -75,7 +76,8 @@ int main() {
 ```
 ## OUTPUT
 
-![fort and exit](https://github.com/Aakashraj04/Linux-Process-API-fork-wait-exec-/assets/121117266/e3f3cb94-05c3-4e20-abe3-8d9d67826265)
+![output 2](https://github.com/ILAIYADEEPAN/Linux-Process-API-fork-wait-exec/assets/147473334/aa4b48c1-f15d-4caa-8342-2c4b1d5bef23)
+
 
 
 
@@ -110,7 +112,8 @@ int main() {
 }
 ```
 ## OUTPUT
-![exec](https://github.com/Aakashraj04/Linux-Process-API-fork-wait-exec-/assets/121117266/33a2ae89-7e9d-478e-b9ad-1b6d4363d1ce)
+![output 3](https://github.com/ILAIYADEEPAN/Linux-Process-API-fork-wait-exec/assets/147473334/01fb5b53-1c13-4e11-840e-3075691aa751)
+
 
 
 # RESULT:
